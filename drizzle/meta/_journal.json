@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789951678364,
+      "tag": "0000_free_betty_ross",
+      "breakpoints": true
+    }
+  ]
+}
